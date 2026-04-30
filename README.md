@@ -17,6 +17,7 @@ The notebook addresses all five required problems:
 - `problems.ipynb` - Main submission notebook.
 - `requirements.txt` - Python dependencies required to run the notebook.
 - `.gitignore` - Ignore rules for Python/Jupyter and local development artifacts.
+- `img/` - Rendered Qiskit circuit diagrams (oracles, Deutsch, Deutsch-Jozsa) referenced from the notebook.
 
 ## Target Audience
 
